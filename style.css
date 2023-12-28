@@ -1,0 +1,47 @@
+body
+{
+  color: black;
+  background:#D0E7D2;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  margin-top: 13px;
+  background-color: white;
+}
+#result_gesture_name ,#result_gesture_name2  
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.heading
+{
+  font-size:28px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+.label{
+  font-size: 20px;
+  font-weight: bold;
+  color: cadetblue;
+}
+#btn_1{
+  font-size:17px;
+  font-weight: bold;
+}
+#btn_2{
+  font-size:17px;
+  font-weight: bold;
+}
+#result_emoji{
+  size:40px;
+}
